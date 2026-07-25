@@ -4,7 +4,7 @@
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/214335.ts
 #EXTINF:-1 tvg-id="+SBT Silvio Santos" tvg-name="+SBT Raiz" tvg-logo="https://i.imgur.com/As98iql.png" group-title="Canais | SBT",+SBT Raiz
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/214331.ts
-#EXTINF:-1 tvg-id="+SBT TV Zyn" tvg-name="+SBT TV Kids" tvg-logo="https://i.imgur.com/As98iql.png" group-title="Canais | SBT",+SBT TV Kids
+#EXTINF:-1 tvg-id="+SBT TV Zyn" tvg-logo="https://i.imgur.com/As98iql.png" group-title="General",+SBT TV Kids
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/214300.ts
 #EXTINF:-1 tvg-id="CanalSete.br@SD" tvg-logo="https://i.imgur.com/0cq0BPp.png" group-title="General",Canal Sete
 http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
